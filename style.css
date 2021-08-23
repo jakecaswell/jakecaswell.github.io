@@ -1,0 +1,49 @@
+header {
+    background: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: -10px 0px 20px 0px;
+    font-size: 28px;
+}
+
+body{
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+
+h2 {
+    font-size: 24px;
+}
+
+#image {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 25px;
+}    
+
+#bio {
+    float: left;
+    width: 70%;
+}
+
+#contact-info {
+    float: left;
+    width: 30%;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
